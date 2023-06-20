@@ -9,13 +9,15 @@ Atendimento médico veterinário no conforto de sua residência, funcionamento 2
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 <br>
-🚀 Tecnologias
+
+## 🚀 Tecnologias
+
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - Java-backend e mobile
 - Git e Github
 
-💻 Projeto
+## 💻 Projeto
 
 [Visite o projeto online]()
 
