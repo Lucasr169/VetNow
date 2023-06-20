@@ -1,0 +1,5 @@
+br\una\cliente\entidades\Cliente.class
+br\una\cliente\negocio\ClienteService.class
+br\una\cliente\rest\ClienteController.class
+br\una\cliente\Application.class
+br\una\cliente\persistencia\ClienteRepository.class
