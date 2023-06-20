@@ -12,8 +12,8 @@ Atendimento médico veterinário no conforto de sua residência, funcionamento 2
 🚀 Tecnologias
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
--Java-backend e mobile
--Git e Github
+- Java-backend e mobile
+- Git e Github
 
 💻 Projeto
 
@@ -22,11 +22,11 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ---
 
 Feito por 
-André Berigo
-Alice Dias
-Gabriel Lucas
-Igor Assis
-Lucas Rafael
-Lucas Teixeira
-Samuel Caldeira
+- André Berigo
+- Alice Dias
+- Gabriel Lucas
+- Igor Assis
+- Lucas Rafael
+- Lucas Teixeira
+- Samuel Caldeira
 👋
