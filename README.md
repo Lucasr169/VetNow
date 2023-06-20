@@ -24,11 +24,10 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ---
 
 Feito por 
-- André Berigo
-- Alice Dias
-- Gabriel Lucas
-- Igor Assis
-- Lucas Rafael
-- Lucas Teixeira
-- Samuel Caldeira
-👋
+- André Berigo 👋
+- Alice Dias 👋
+- Gabriel Lucas 👋
+- Igor Assis 👋
+- Lucas Rafael 👋
+- Lucas Teixeira 👋
+- Samuel Caldeira 👋
